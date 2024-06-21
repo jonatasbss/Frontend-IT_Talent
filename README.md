@@ -12,6 +12,10 @@ Currently, two official plugins are available:
 
 ![alt text](get.png)
 
+### GET ID
+
+![alt text](get-id.png)
+
 
 ### POST
 
